@@ -65,7 +65,6 @@ stock-prediction-project/
 │
 ├── main.py                    # メインの予測スクリプト
 ├── presentation.pptx          # プレゼンテーション資料
-├── presentation/              # プレゼンテーション用スライド
 ├── requirements.txt           # 依存関係
 ├── README.md                  # プロジェクト説明
 ├── stock_price.csv           # 株価データ（要配置）
